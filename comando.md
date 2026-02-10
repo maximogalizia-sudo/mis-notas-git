@@ -1,4 +1,11 @@
-#Basicos				Funcion
+#Comandos 				Funcion
+
+#Configuracion 
+1 git config --global user.name""	me permite crear el nombre del usuario
+2 git config --global user.email""	me permite crear el mail del usuario
+3 git config --global alias.tree""	me permite hacer alias/atajos para usar con solo escribir un comando
+
+#Basicos				
 1 add 					Añade el archivo en donde trabaje 
 2 commit 				Saca la "Foto" de todo para guardarlo 
 3 status 				Mustra todos los estados de los archivos
